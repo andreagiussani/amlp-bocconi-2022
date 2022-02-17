@@ -1,4 +1,4 @@
-# Applied Machine Learning with Python - Academic Year 2020/21 - Bocconi University
+# Applied Machine Learning with Python - Academic Year 2021/22 - Bocconi University
 
 ## Instructor info
 This course is held by Andrea Giussani, Academic Fellow in Computer Science.
