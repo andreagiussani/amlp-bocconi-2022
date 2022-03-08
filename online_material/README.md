@@ -13,8 +13,11 @@ In case you want to have a refresh on `pandas`, [here](https://github.com/clouda
 
 
 ## Regularized Models
- - Lasso original [paper](https://statweb.stanford.edu/~tibs/lasso/lasso.pdf);
+ - Lasso original [paper](https://www.jstor.org/stable/2346178?seq=1#metadata_info_tab_contents);
  - ElasticNet scikit-learn implementation in the file `elastic_net.py`  
 
 ## Random Forest
  - Original paper [here](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
+
+## Natural Language Processing
+ - LDA paper [here](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
