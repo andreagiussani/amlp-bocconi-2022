@@ -10,3 +10,8 @@ In case you want to have a refresh on `pandas`, [here](https://github.com/clouda
 - Iterative Imputer: nice reference (written for the R software) [here](https://www.jstatsoft.org/article/view/v045i03).
 
 **I have a few thesis ideas on this topic. Please drop me a line if interested.**
+
+
+## Regularized Models
+ - Lasso original [paper](https://statweb.stanford.edu/~tibs/lasso/lasso.pdf);
+ - ElasticNet scikit-learn implementation in the file `elastic_net.py`  
